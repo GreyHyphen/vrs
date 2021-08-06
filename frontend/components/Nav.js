@@ -65,7 +65,7 @@ export default function Nav({
           <div className="w-100 w-10-l dtc-l tc tl-l v-mid">
             <Link href="/">
               <a className="link dim white dib mr3" title="Home">
-                V R S
+                DIJETS NFT MARKETPLACE
               </a>
             </Link>
           </div>
@@ -92,7 +92,7 @@ export default function Nav({
             </Link>
             <a
               className="link dim white dib mr3 v-mid"
-              href="https://github.com/zeit/vrs"
+              href="https://github.com/"
               target="_blank"
               title="GitHub"
             >
